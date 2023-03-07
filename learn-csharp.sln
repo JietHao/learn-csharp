@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.code", "learn.code\le
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D912CA1-ABF3-4411-BFD6-AC9AE70E788A}"
 	ProjectSection(SolutionItems) = preProject
+		CSharp.md = CSharp.md
 		README.md = README.md
+		DotNet.md = DotNet.md
 	EndProjectSection
 EndProject
 Global
